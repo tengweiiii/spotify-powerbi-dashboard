@@ -4,8 +4,10 @@
 
 ## 📌 Overview
 
-<img width="1275" height="712" alt="image" src="https://github.com/user-attachments/assets/a24842df-b159-47a7-9d71-610818504407" />
-
+<p align="center">
+  <img width="1275" height="712" alt="Overview Dashboard"
+  src="https://github.com/user-attachments/assets/a24842df-b159-47a7-9d71-610818504407" />
+</p>
 
 This project is an interactive **Spotify analytics dashboard** built in **Power BI** to explore listening behavior, artist trends, and track performance. It provides insights into song distribution, popularity patterns, and listening habits over time.
 
@@ -62,7 +64,7 @@ The dashboard is designed to be visually engaging and easy to navigate, enabling
   * Overview
   * Artists
   * Songs
-* Interactive cross-filtering and drill-down exploration
+* Cross-filtering and drill-down exploration
 
 ---
 
@@ -75,17 +77,24 @@ The dashboard is designed to be visually engaging and easy to navigate, enabling
 
 ---
 
-# 🎤 Artists Page 
-<img width="1277" height="712" alt="image" src="https://github.com/user-attachments/assets/ba88f5d7-b8d2-40d1-aa89-4bb6aff8f5f4" />
+# 🎤 Artists Page
 
+<p align="center">
+  <img width="1277" height="712" alt="Artists Dashboard"
+  src="https://github.com/user-attachments/assets/ba88f5d7-b8d2-40d1-aa89-4bb6aff8f5f4" />
+</p>
 
-The **Artists** page focuses on analyzing performance at the artist level within the Spotify dataset. It provides a breakdown of:
+The **Artists** page focuses on analyzing performance at the artist level within the Spotify dataset.
+
+### Key Insights:
 
 * Number of songs per artist
 * Total accumulated popularity
 * Frequency of top chart positions
 
 Users can quickly identify dominant artists and compare their contributions.
+
+### Additional Details:
 
 An interactive table enhances exploration by showing:
 
@@ -95,60 +104,79 @@ An interactive table enhances exploration by showing:
 * Popularity metrics
 * Duration
 
-With filtering and drill-down options, this page makes it easy to evaluate artist performance and trends over time.
+With filtering and drill-down options, this page enables deeper analysis of artist performance over time.
 
 ---
 
-# 🎵 Songs Page 
-<img width="1272" height="713" alt="image" src="https://github.com/user-attachments/assets/3ee85097-3a4d-4ccf-861a-0c2cece1bdbc" />
+# 🎵 Songs Page
 
+<p align="center">
+  <img width="1272" height="713" alt="Songs Dashboard"
+  src="https://github.com/user-attachments/assets/3ee85097-3a4d-4ccf-861a-0c2cece1bdbc" />
+</p>
 
-The **Songs** page provides a detailed, track-level analysis of the dataset, focusing on:
+The **Songs** page provides a detailed, track-level analysis of the dataset.
+
+### Key Insights:
 
 * Song popularity
 * Top-charting track frequency
 * Distribution across artists
 
-It highlights:
+### Highlights:
 
 * Most popular songs
 * High-performing tracks
 * Artist contribution at song level
 
-An interactive table includes:
+### Interactive Table Includes:
 
 * Album type
 * Song count
 * Hit frequency
 * Average popularity
 
-With dynamic filters, users can drill into specific songs or artists to uncover deeper trends in music performance.
+Dynamic filters allow users to drill into specific songs or artists for deeper insights.
+
+---
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the **MIT License**.
+You are free to use, modify, and share this project with proper attribution.
+
+---
 
 ## 👋 About Me
 
-Hi, I'm Teng Wei — a Computer Science student specializing in Data Analytics.  
+Hi, I'm **Teng Wei** — a Computer Science student specializing in Data Analytics.
 I’m passionate about working with data and currently exploring data analytics, data engineering, and data science.
 
-- 📊 Interested in building data-driven solutions  
-- 🌱 Learning data modeling, ETL processes and analytics workflows  
-- 🚀 Exploring how data systems are designed and used in real-world applications  
+* 📊 Interested in building data-driven solutions
+* 🌱 Learning data modeling, ETL processes, and analytics workflows
+* 🚀 Exploring real-world data systems and architectures
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript, Python, Java, C#, SQL, PHP  
-- **Tools:** Git, VS Code, Microsoft SQL Server, PyCharm, Apache NetBeans, RStudio, XAMPP  
-- **Data & Visualization:** Power BI, Tableau  
-- **Concepts:** Data Warehousing, Data Modeling, ETL, Data Analytics, Full-Stack Web Development, OOP, Gamification  
+## 🛠️ Tech Stack
+
+**Languages:**
+HTML, CSS, JavaScript, Python, Java, C#, SQL, PHP
+
+**Tools:**
+Git, VS Code, Microsoft SQL Server, PyCharm, Apache NetBeans, RStudio, XAMPP
+
+**Data & Visualization:**
+Power BI, Tableau
+
+**Concepts:**
+Data Warehousing, Data Modeling, ETL, Data Analytics, Full-Stack Web Development, OOP, Gamification
 
 ---
 
-### 📫 Contact
-- Email: wetcheong@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/cheong-teng-wei-528407182/  
+## 📫 Contact
+
+* 📧 Email: **[wetcheong@gmail.com](mailto:wetcheong@gmail.com)**
+* 🔗 LinkedIn: [https://www.linkedin.com/in/cheong-teng-wei-528407182/](https://www.linkedin.com/in/cheong-teng-wei-528407182/)
 
 ---
