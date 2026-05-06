@@ -1,5 +1,7 @@
 # 🎧 Spotify Power BI Dashboard
 
+---
+
 ## 📌 Overview
 
 <img width="1275" height="712" alt="image" src="https://github.com/user-attachments/assets/a24842df-b159-47a7-9d71-610818504407" />
