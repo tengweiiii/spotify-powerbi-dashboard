@@ -1,7 +1,9 @@
 # 🎧 Spotify Power BI Dashboard
 
 ## 📌 Overview
+
 <img width="1275" height="712" alt="image" src="https://github.com/user-attachments/assets/a24842df-b159-47a7-9d71-610818504407" />
+
 
 This project is an interactive **Spotify analytics dashboard** built in **Power BI** to explore listening behavior, artist trends, and track performance. It provides insights into song distribution, popularity patterns, and listening habits over time.
 
@@ -62,24 +64,6 @@ The dashboard is designed to be visually engaging and easy to navigate, enabling
 
 ---
 
-### 🛠️ Tools & Technologies
-
-* Power BI Desktop
-* Spotify dataset (API or exported data)
-* DAX (Data Analysis Expressions)
-* Power Query (ETL transformations)
-
----
-
-### 💡 Insights You Can Derive
-
-* Most listened-to artists and songs
-* Music popularity trends over time
-* Monthly listening behavior patterns
-* Preference for explicit vs non-explicit tracks
-
----
-
 ### 🎨 Design Highlights
 
 * Dark Spotify-inspired theme
@@ -89,30 +73,9 @@ The dashboard is designed to be visually engaging and easy to navigate, enabling
 
 ---
 
-### 🔮 Future Improvements
-
-* Live Spotify API integration
-* User-level personalization
-* Genre-based analysis
-* Playlist performance tracking
-
----
-
-### 📜 License
-
-Educational and personal use. Free to modify and extend.
-
----
-
-### 🙌 Acknowledgments
-
-* Spotify (data inspiration)
-* Power BI community (visual design ideas)
-
----
-
 # 🎤 Artists Page 
 <img width="1277" height="712" alt="image" src="https://github.com/user-attachments/assets/ba88f5d7-b8d2-40d1-aa89-4bb6aff8f5f4" />
+
 
 The **Artists** page focuses on analyzing performance at the artist level within the Spotify dataset. It provides a breakdown of:
 
@@ -136,6 +99,7 @@ With filtering and drill-down options, this page makes it easy to evaluate artis
 
 # 🎵 Songs Page 
 <img width="1272" height="713" alt="image" src="https://github.com/user-attachments/assets/3ee85097-3a4d-4ccf-861a-0c2cece1bdbc" />
+
 
 The **Songs** page provides a detailed, track-level analysis of the dataset, focusing on:
 
